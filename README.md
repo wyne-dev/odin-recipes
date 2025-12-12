@@ -1,1 +1,1 @@
-# odin-recipes
+A simple collection of three delicious recipes:  Empanadas, Pizza, and Chicken Cordon Bleu. 
